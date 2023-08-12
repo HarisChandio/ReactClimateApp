@@ -1,7 +1,9 @@
 <h1>Weather App</h1>
 
-![image](https://github.com/HarisChandio/ReactClimateApp/assets/86180280/06e564e7-852f-44fa-8be9-5b0d1baa8588)
-![image](https://github.com/HarisChandio/ReactClimateApp/assets/86180280/80d83463-c2b2-45e1-b22f-17f5765206ac)
+![Screen Shot 2023-08-12 at 23 36 49](https://github.com/HarisChandio/ReactClimateApp/assets/86180280/a649ca0e-6ba4-410e-a7a8-45e0784895c5)
+
+![image](https://github.com/HarisChandio/ReactClimateApp/assets/86180280/40b5980d-9951-4ad9-92d1-0ee372766770)
+
 
 
 
